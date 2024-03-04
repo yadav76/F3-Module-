@@ -1,0 +1,19 @@
+#stripe-login{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  width: 500px;
+  height: 600px;
+  background-color: navy;
+  color: #fff;
+}
+
+#email{
+  height: 20px;
+  width: 50%;
+}
+#password{
+  height: 20px;
+  width: 50%;
+}

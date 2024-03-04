@@ -1,0 +1,3 @@
+function fnc() {
+    alert("Hiii");
+}

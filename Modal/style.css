@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.modal-container{
+    padding: fixed;
+    height: 100vh;
+    width: 100vw;
+    top:0;
+    left: 0;
+    z-index: 1000;
+    background-color: rgb(0,0,0,0.5);
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content{
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 0.4rem;
+}
